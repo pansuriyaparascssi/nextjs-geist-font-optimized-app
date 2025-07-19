@@ -1,0 +1,47 @@
+{
+  "version": 3,
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/_379c85ae._.js",
+        "server/edge/chunks/node_modules_mssql_e4df0e42._.js",
+        "server/edge/chunks/node_modules_tedious_lib_token_906a260e._.js",
+        "server/edge/chunks/node_modules_tedious_lib_data-types_0da768b0._.js",
+        "server/edge/chunks/node_modules_tedious_lib_connection_3c946c3c.js",
+        "server/edge/chunks/node_modules_tedious_lib_9b3a369f._.js",
+        "server/edge/chunks/node_modules_tedious_77df5274._.js",
+        "server/edge/chunks/node_modules_@azure_identity_dist_browser_05f0266a._.js",
+        "server/edge/chunks/node_modules_@typespec_ts-http-runtime_dist_browser_2fcf5afc._.js",
+        "server/edge/chunks/node_modules_@azure_msal-browser_dist_08bfeb97._.js",
+        "server/edge/chunks/node_modules_@azure_msal-common_dist_87286fac._.js",
+        "server/edge/chunks/node_modules_readable-stream_lib_d78472d0._.js",
+        "server/edge/chunks/node_modules_@js-joda_core_dist_js-joda_esm_6d5afa7c.js",
+        "server/edge/chunks/node_modules_iconv-lite_afc92bd9._.js",
+        "server/edge/chunks/node_modules_45b43b76._.js",
+        "server/edge/chunks/[root-of-the-server]__65cfa364._.js",
+        "server/edge/chunks/edge-wrapper_d83e3277.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?(?:\\/((?!_next\\/static|_next\\/image|favicon.ico|public).*))(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/((?!_next/static|_next/image|favicon.ico|public).*)"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "gIBlBHSvWX1hSl72XGCGptycP13M6BpZAgcAQD9Upt4=",
+        "__NEXT_PREVIEW_MODE_ID": "a12959c7c977f80d50e57fda9eda0ef2",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "2f817ca40945d609cadea96c54fd4ccd7a4c83cd1b7efbdc6b03ae63bd930a2b",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "a7296d42bd2f506a16f14571c6e7af842b88cb432a75cf4327572be790738fde"
+      }
+    }
+  },
+  "sortedMiddleware": [
+    "/"
+  ],
+  "functions": {}
+}
